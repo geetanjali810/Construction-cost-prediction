@@ -13,3 +13,7 @@ Python, pandas, scikit-learn
 1. Open Google Colab
 2. Upload the files
 3. Run train_model.py
+
+### Results
+![Construction Feature Importances](construction_feature_importances.png)
+
