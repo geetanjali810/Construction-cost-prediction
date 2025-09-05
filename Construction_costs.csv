@@ -1,0 +1,6 @@
+project_id,area_m2,num_floors,material_cost_per_m2,labor_cost_per_m2,equipment_cost,location_factor,project_type,total_cost
+P001,1200,2,1800,800,25000,1.05,residential,0
+P002,3500,6,2600,1100,120000,1.12,commercial,0
+P003,800,1,1600,600,18000,0.95,residential,0
+P004,2200,3,2000,900,60000,1.00,residential,0
+P005,4500,8,3000,1200,180000,1.20,commercial,0
